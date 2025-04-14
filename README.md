@@ -24,3 +24,6 @@ A modern, responsive web application for Bella Cucina, an authentic Italian rest
    npm start
    ```
 4. Open (http://localhost:3000) to view it in your browser.
+
+5. You can access it via link bella-cucina-lilac.vercel.app
+     
